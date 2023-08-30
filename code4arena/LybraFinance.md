@@ -428,3 +428,14 @@ Team should consider rewriting requirement to
 # [G-02] Check before transfer would save gas cost in case of revert
 Move `_checkHealth` berofe `transfer` in `LybraEUSDVaultBase.sol` contract line 109 
 
+
+# Code4Arena results
+
+[Code4Arena report](https://code4rena.com/reports/2023-06-lybra#h-02-doesnt-calculate-the-current-borrowing-amount-for-the-provider-including-the-providers-borrowed-shares-and-accumulated-fees-due-to-inconsistency-in-collateralratio-calculation)
+
+High findings - 2/8. (3/8)
+I actually found H-02 from report too, but somehow managed to mess with wording and got unqualified as low quality report.  
+Medium findings - 2/23
+Low/NC finding - 1/9
+
+Got 29 place out of 132 wardens and $318 reward
