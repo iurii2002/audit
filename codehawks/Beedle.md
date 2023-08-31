@@ -233,10 +233,13 @@ Delete unnecessary functions
 
 [Final report](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx)
 
-High findings - 1/26
-Medium findings - 3/15
-Low finding - 0/28
-Gas - 3/110
+| Severity | Found | Total |
+| ------ | ------ | -------- |
+| High | 1     | 26     |
+| Medium | 3   | 45   |
+| Low | 0   | 28   |
+| Gas | 3   | 110   |
+
 
 Place - 125/276  
 Reward - $19 
