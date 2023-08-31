@@ -111,7 +111,8 @@ Protocol implements Ownable contract that allows to set Lender contract owner an
     function transferOwnership(address _owner) public virtual onlyOwner {
         owner = _owner;
         emit OwnershipTransferred(msg.sender, _owner);
-    }```
+    }
+```
 
 
 ## Vulnerability Details
